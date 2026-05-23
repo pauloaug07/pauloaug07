@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Paulo Augusto
+# 🌐 Paulo Augusto
 
 **`💻 Desenvolvimento de Software
 ⚙️ Back-End
