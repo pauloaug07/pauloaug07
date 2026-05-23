@@ -30,6 +30,16 @@ Atualmente estou aprofundando meus conhecimentos em Java e desenvolvimento de AP
 
 ---
 
+### 🚀 Projetos e Experiências
+
+🧠 Projeto MiMiMi (2024–2026)
+Projeto de iniciação científica voltado ao monitoramento do clima escolar por meio de análise de sentimentos, Processamento de Linguagem Natural (PLN) e dashboards para acompanhamento de indicadores de bem-estar estudantil.
+
+📚 CRIA Kids (2025)
+Plataforma gamificada para alfabetização infantil utilizando Inteligência Artificial para geração de diagnósticos e identificação de dificuldades de aprendizagem.
+
+---
+
 <div> 
   <a href = "mailto:pauloaugustocosta9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-augusto-337108351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
