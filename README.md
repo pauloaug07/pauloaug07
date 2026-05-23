@@ -32,10 +32,10 @@ Atualmente estou aprofundando meus conhecimentos em Java e desenvolvimento de AP
 
 ### 🚀 Projetos e Experiências
 
-🧠 Projeto MiMiMi (2024–2026)
+🧠 Projeto MiMiMi (2024–2026) <br/>
 Projeto de iniciação científica voltado ao monitoramento do clima escolar por meio de análise de sentimentos, Processamento de Linguagem Natural (PLN) e dashboards para acompanhamento de indicadores de bem-estar estudantil.
 
-📚 CRIA Kids (2025)
+📚 CRIA Kids (2025)  <br/>
 Plataforma gamificada para alfabetização infantil utilizando Inteligência Artificial para geração de diagnósticos e identificação de dificuldades de aprendizagem.
 
 ---
