@@ -30,20 +30,7 @@ Atualmente estou aprofundando meus conhecimentos em Java e desenvolvimento de AP
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=pauloaug07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="Tecnologias"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloaug07&theme=tokyonight&layout=compact&custom_title=Tecnologias"
-  />
-</p>
+<div> 
+  <a href = "mailto:pauloaugustocosta9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-augusto-337108351" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
